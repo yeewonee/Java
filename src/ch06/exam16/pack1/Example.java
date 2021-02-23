@@ -1,6 +1,6 @@
-package pr06.exam15.pack2;
+package ch06.exam16.pack1;
 
-import pr06.exam15.pack1.*;  // command + shift + O 쓰면 자동 임포트 
+import ch06.exam16.pack1.*;  // command + shift + O 쓰면 자동 임포트 
 //import pr06.exam15.pack3.*;
 
 public class Example {
@@ -15,7 +15,7 @@ public class Example {
 		
 		
 		// 패키지도 클래스의 일부분이다. 
-		pr06.exam15.pack3.Board b2 = new pr06.exam15.pack3.Board();
+		ch06.exam15.pack3.Board b2 = new ch06.exam15.pack3.Board();
 		b2.title = "제목";
 		
 		
