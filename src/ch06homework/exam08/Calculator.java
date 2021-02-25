@@ -3,7 +3,7 @@ package ch06homework.exam08;
 public class Calculator {
 
 	//메소드
-	void powerOn{
+	void powerOn(){
 		System.out.println("전원을 켭니다.");
 	}
 	
@@ -17,7 +17,7 @@ public class Calculator {
 		return result;
 	}
 	
-	void powerOff{
+	void powerOff(){
 		System.out.println("전원을 끕니다.");
 
 	}

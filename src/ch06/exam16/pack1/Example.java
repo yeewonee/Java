@@ -1,7 +1,7 @@
 package ch06.exam16.pack1;
 
-import ch06.exam16.pack1.*;  // command + shift + O �곕㈃ ���� ���ы�� 
-//import pr06.exam15.pack3.*;
+import ch06.exam15.pack1.*;
+import ch06.exam15.pack1.Product;
 
 public class Example {
 
