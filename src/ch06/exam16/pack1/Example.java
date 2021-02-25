@@ -1,6 +1,6 @@
 package ch06.exam16.pack1;
 
-import ch06.exam16.pack1.*;  // command + shift + O 쓰면 자동 임포트 
+import ch06.exam16.pack1.*;  // command + shift + O �곕㈃ ���� ���ы�� 
 //import pr06.exam15.pack3.*;
 
 public class Example {
@@ -8,15 +8,14 @@ public class Example {
 	public static void main(String[] args) {
 		
 		Board b1 = new Board();
-		b1.title = "제목";
+		b1.title = "";
 		
 		Product p1 = new Product();
-		p1.name = "세탁기";
+		p1.name = "";
 		
 		
-		// 패키지도 클래스의 일부분이다. 
 		ch06.exam15.pack3.Board b2 = new ch06.exam15.pack3.Board();
-		b2.title = "제목";
+		b2.title = "��紐�";
 		
 		
 		
